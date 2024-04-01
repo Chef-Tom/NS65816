@@ -20,3 +20,6 @@ Stretch goals include:
 - Community developments
 - Programming contests?
 - Some really cool stuff that I haven't even dreamed of yet.
+
+---------------------
+I am archiving this project on 4/1/2024 to start over.  This will remain for reference, but I need to start over with a new understanding.
